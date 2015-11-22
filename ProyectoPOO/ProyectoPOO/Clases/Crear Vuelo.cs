@@ -4,16 +4,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Sistema de Aerolinea{
+namespace ProyectoPOO.Clases
+{
     /**
      * 
      */
-    public class Crear Vuelo : Operación {
+    public class CrearVuelo : Operación {
 
         /**
          * 
          */
-        public Crear Vuelo() {
+        public CrearVuelo() {
         }
 
         /**
@@ -44,7 +45,7 @@ namespace Sistema de Aerolinea{
         /**
          * @param this
          */
-        private void IngresarloBD(void this) {
+        private void IngresarloBD() {
             // TODO implement here
         }
 

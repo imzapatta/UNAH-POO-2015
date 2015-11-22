@@ -19,7 +19,7 @@ public class Impresora {
     /**
      * @param Ticket
      */
-    public void Imprimir(void Ticket) {
+    public void Imprimir() {
         // TODO implement here
     }
 

@@ -4,27 +4,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Sistema de Aerolinea{
+namespace ProyectoPOO.Clases
+{
     /**
      * 
      */
-    public class Operación {
+    public class EstadoDelVuelo : Operación {
 
         /**
          * 
          */
-        public Operación() {
+        public EstadoDelVuelo() {
         }
 
         /**
-         * 
+         * @param Vuelo
          */
-        protected DateTime fecha;
-
-        /**
-         * @param this
-         */
-        public void RegistrarEvento(void this) {
+        public void GetEstado() {
             // TODO implement here
         }
 

@@ -4,16 +4,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Sistema de Aerolinea{
+namespace ProyectoPOO.Clases
+{
     /**
      * 
      */
-    public class Lectora Tarjeta {
+    public class LectoraTarjeta {
 
         /**
          * 
          */
-        public Lectora Tarjeta() {
+        public LectoraTarjeta() {
         }
 
 

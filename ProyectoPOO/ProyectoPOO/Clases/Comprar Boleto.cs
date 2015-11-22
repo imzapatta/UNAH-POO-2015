@@ -4,27 +4,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Sistema de Aerolinea{
+namespace ProyectoPOO.Clases
+{
     /**
      * 
      */
-    public class Comprar Boleto : Operación {
+    public class ComprarBoleto : Operación {
 
         /**
          * 
          */
-        public Comprar Boleto() {
+        public ComprarBoleto() {
         }
 
         /**
          * 
          */
-        private enum<float> precio;
+        //private enum<float> precio;
 
         /**
          * 
          */
-        private enum<Clase> tipoDeBoleto;
+        //private enum<Clase> tipoDeBoleto;
 
         /**
          * 

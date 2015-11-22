@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Sistema de Aerolinea{
+namespace ProyectoPOO.Clases
+{
     /**
      * 
      */
@@ -34,7 +35,7 @@ namespace Sistema de Aerolinea{
         /**
          * 
          */
-        private enum<Cliente> Equipaje;
+       
 
     }
 }
