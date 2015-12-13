@@ -63,17 +63,16 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Clases\Avion.cs" />
-    <Compile Include="Clases\Comprar Boleto.cs" />
+    <Compile Include="Clases\Boleto.cs" />
+    <Compile Include="Clases\Cliente.cs" />
     <Compile Include="Clases\Crear Vuelo.cs" />
+    <Compile Include="Clases\Destino.cs" />
+    <Compile Include="Clases\EClaseDeVuelo.cs" />
+    <Compile Include="Clases\Empleado.cs" />
     <Compile Include="Clases\Estado Del Vuelo.cs" />
-    <Compile Include="Clases\Impresora.cs" />
-    <Compile Include="Clases\Lectora Tarjeta.cs" />
-    <Compile Include="Clases\main.cs" />
-    <Compile Include="Clases\Monitor.cs" />
     <Compile Include="Clases\Operación.cs" />
     <Compile Include="Clases\Persona.cs" />
-    <Compile Include="Clases\Teclado.cs" />
-    <Compile Include="Clases\Terminal.cs" />
+    <Compile Include="Clases\TipoDeVuelo.cs" />
     <Compile Include="Clases\Vuelo.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
